@@ -51,6 +51,11 @@ _Public_
 `/report user: [User] reason: [Reason] where: [LocationOfReport]`
 Report a user.
 
+**Info**
+_Public_
+`/info`
+Get the bots info.
+
 
 
 
