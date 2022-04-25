@@ -56,6 +56,15 @@ _Public_
 `/info`
 Get the bots info.
 
+**Mtsf Embed**
+_Public_
+`/mtsfembed`
+Gets a embed for MTSF.
+
+**Global Rules**
+_Public_
+`/globalrules`
+Gets a list of all the global rules..
 
 
 
