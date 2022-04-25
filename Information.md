@@ -3,5 +3,7 @@ Epsilon is a DiscordJS bot that  MTSF and its associated groups use. This contai
 
 # Folders & Files
 Information.md - This file currently, contains basic info.
+
 Commands.md - Contains the commands and how to use them/who can use them.
+
 Updates (Folder) - Contains logs of updates/bug-fixes.
