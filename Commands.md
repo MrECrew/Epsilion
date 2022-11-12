@@ -11,6 +11,11 @@ _Moderator Only_
 `/unban target: [User] reason: [String]`
 Unbans a user
 
+**Purge**
+_Moderator Only_
+`/purge amount: [Integer] reason: [String]`
+Purges messages
+
 **Custom Embed**
 _Public_
 `/customembed title: [EmbedTtile] description: [EmbedDesc] colour: [HexValue]`
@@ -35,6 +40,11 @@ Kicks a user.
 _Moderator Only_
 `/mute target: [User] reason: [String]`
 Mutes a user.
+
+**Unmute**
+_Moderator Only_
+`/unmute target: [User] reason: [String]`
+Unutes a user.
 
 **Ping**
 _Public_
